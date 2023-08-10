@@ -20,6 +20,8 @@ Ozan Öktem (KTH): 			          Statistical learning and the learning problem
 Due to limited space, please send an e-mail to inversewithDL@gmail.com with CV and a short paragraph on your motivation to attend and learning goals.
 We will get back to you shortly after.
 
+DEADLINE for applications: 18th of August!
+
 # Social program
 
 More information to follow.
