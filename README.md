@@ -22,6 +22,16 @@ We will get back to you shortly after.
 
 DEADLINE for applications: 18th of August!
 
+# Venue
+
+The autumn school will be located at Jesus College, Jesus Ln, Cambridge CB5 8BL.
+
+Lecture will be:
+
+Wednesday and Thursday at the Webb Library in West Court
+
+Friday in the Elena Hall in West Court
+
 # Schedule
 
 We are starting wednesday at 10 am with coffee. (No early morning lecture)
