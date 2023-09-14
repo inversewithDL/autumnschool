@@ -9,7 +9,7 @@ Carola-Bibiane Schönlieb (U. Cambridge): 	Variational methods and learned recon
 
 Andreas Hauptmann (U. Oulu): 		      Deep Learning basics and learned reconstruction operators
 
-Ozan Öktem (KTH): 			          Statistical learning and the learning problem
+Jonas Latz (U Manchester): 			        Statistical Learning and Bayesian Inverse Problems
 
 
 ![image](https://github.com/inversewithDL/autumnschool/assets/138695100/a8ecfcbf-e629-40c0-a9c1-61512c045c32)
@@ -22,6 +22,23 @@ We will get back to you shortly after.
 
 DEADLINE for applications: 18th of August!
 
+# Schedule
+
+We are starting wednesday at 10 am with coffee. (No early morning lecture)
+
+We will end Friday with the afternoon coffee.
+
+Daily schedule:
+
+Lecture times: 9:15-10am & 10:30-12pm & 2-3:30pm
+
+Computational session: 1-2pm & 4-5pm
+
+Coffee breaks: 10-10:30am & 3:30-4pm
+
+Lunch break: 12-1pm (lunch is not provided)
+
+
 # Social program
 
-More information to follow.
+We will have a joint dinner at Jesus College on Thursday 21st, starting 7:30 pm.
