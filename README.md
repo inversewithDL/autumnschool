@@ -9,10 +9,11 @@ Carola-Bibiane Schönlieb (U. Cambridge): 	Variational methods and learned recon
 
 Andreas Hauptmann (U. Oulu): 		      Deep Learning basics and learned reconstruction operators
 
-Jonas Latz (U Manchester): 			        Statistical Learning and Bayesian Inverse Problems
+Jonas Latz (U. Manchester): 			        Statistical Learning and Bayesian Inverse Problems
 
 
-![image](https://github.com/inversewithDL/autumnschool/assets/138695100/a8ecfcbf-e629-40c0-a9c1-61512c045c32)
+![image](https://github.com/inversewithDL/autumnschool/assets/138695100/3c1f6720-124a-45fa-b459-05063459538c)
+
 
 
 # Sign-up:
